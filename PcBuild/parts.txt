@@ -1,0 +1,3 @@
+CPU 120 i7
+SSD 50 Kingstone
+RAM 36 ddr3
